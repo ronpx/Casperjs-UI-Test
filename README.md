@@ -8,4 +8,9 @@ Pre-requisite:
 Paste that in a macOS Terminal or Linux shell prompt.
 The script explains what it will do and then pauses before it does it. Read about other installation options.
 
-2. 
+2. Install CasperJS http://docs.casperjs.org/en/latest/installation.html
+$ brew install casperjs
+
+3. Run interface.js, follow instructiong
+http://docs.casperjs.org/en/latest/quickstart.html
+
